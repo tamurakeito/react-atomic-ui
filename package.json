@@ -1,0 +1,9 @@
+{
+  "name": "@tamurakeito/ui",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "types": "index.d.ts",
+  "repository": "git@github.com:tamurakeito/react-atomic-ui.git",
+  "author": "tamurakeito <kit_tamtam@icloud.com>",
+  "license": "MIT"
+}
