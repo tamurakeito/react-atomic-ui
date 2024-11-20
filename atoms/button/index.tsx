@@ -1,4 +1,4 @@
-import { forwardRef, ReactNode } from "react";
+import { ReactNode } from "react";
 import classes from "./styles.module.scss";
 import classNames from "classnames";
 
